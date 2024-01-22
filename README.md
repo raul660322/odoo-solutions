@@ -8,3 +8,5 @@
 -Use methods fields_view_get and xpath to grant or deny access to certain parts and actions on the form </br>
 **res_users.py**
 
+-Chatter features for many2many fields
+**chatter.py**
